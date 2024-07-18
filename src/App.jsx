@@ -1,10 +1,11 @@
 
 import './App.css'
+import Home from './Components/Homepage/Homepage'
 
 function App() {
   
   return (
-    <h1>SUBASH PAHARI PORTFOLIOS NOW</h1>
+    <Home></Home>
   )
 }
 
