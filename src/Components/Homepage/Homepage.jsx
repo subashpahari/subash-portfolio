@@ -5,8 +5,8 @@ const Home = () => {
   return (
     <div className="home-container">
       <section className="intro-section">
-        <h1>Hello, I'm [Your Name]</h1>
-        <p>I'm a [Your Profession] with a passion for [Your Passion].</p>
+        <h1>Hello, I'm SUBASH PAHARI</h1>
+        <p>I'm an Electronics Engineer with a passion for Software Development.</p>
         <button className="cta-button">View My Work</button>
       </section>
 
