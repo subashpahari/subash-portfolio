@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   
   return (
-    <h1>SUBASH PAHARI PORTFOLIO</h1>
+    <h1>SUBASH PAHARI PORTFOLIOS NOW</h1>
   )
 }
 
